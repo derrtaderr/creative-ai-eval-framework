@@ -1,0 +1,89 @@
+{
+  "demo_metadata": {
+    "demo_type": "Level 3 Multi-Modal Assessment",
+    "timestamp": "2025-06-10T19:12:35.018064",
+    "framework_version": "1.4.0",
+    "evaluator": "MultiModalEvaluator"
+  },
+  "scenarios": [
+    {
+      "scenario": "TikTok Viral Video",
+      "platform": "tiktok",
+      "multimodal_score": 0.879,
+      "coherence_score": 0.796,
+      "modalities": [
+        "video",
+        "audio",
+        "text"
+      ],
+      "evaluation_time": 0.08320808410644531
+    },
+    {
+      "scenario": "YouTube Educational Content",
+      "platform": "youtube_standard",
+      "multimodal_score": 0.933,
+      "coherence_score": 0.839,
+      "modalities": [
+        "video",
+        "audio",
+        "image",
+        "text"
+      ],
+      "evaluation_time": 0.10013580322265625
+    },
+    {
+      "scenario": "Instagram Lifestyle Reel",
+      "platform": "instagram_reels",
+      "multimodal_score": 0.876,
+      "coherence_score": 0.791,
+      "modalities": [
+        "video",
+        "audio",
+        "image",
+        "text"
+      ],
+      "evaluation_time": 0.10704994201660156
+    },
+    {
+      "scenario": "LinkedIn Professional Post",
+      "platform": "linkedin",
+      "multimodal_score": 0.87,
+      "coherence_score": 0.838,
+      "modalities": [
+        "image",
+        "text"
+      ],
+      "evaluation_time": 0.051975250244140625
+    },
+    {
+      "scenario": "Multi-Modal Marketing Campaign",
+      "platform": "youtube_standard",
+      "multimodal_score": 0.882,
+      "coherence_score": 0.81,
+      "modalities": [
+        "video",
+        "audio",
+        "image",
+        "text"
+      ],
+      "evaluation_time": 0.13017654418945312
+    }
+  ],
+  "summary_stats": {
+    "total_scenarios": 5,
+    "average_multimodal_score": 0.8880000000000001,
+    "average_coherence_score": 0.8148,
+    "platforms_tested": [
+      "instagram_reels",
+      "tiktok",
+      "youtube_standard",
+      "linkedin"
+    ],
+    "modalities_coverage": {
+      "video": 4,
+      "audio": 4,
+      "image": 4,
+      "text": 5
+    }
+  }
+}
