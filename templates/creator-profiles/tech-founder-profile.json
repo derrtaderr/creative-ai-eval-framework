@@ -1,0 +1,181 @@
+{
+  "profile_metadata": {
+    "template_name": "Tech Startup Founder",
+    "template_version": "1.0",
+    "description": "Optimized for technology entrepreneurs sharing insights about startups, product development, and scaling businesses",
+    "target_audience": "entrepreneurs, product managers, startup employees, investors",
+    "primary_platforms": ["linkedin", "twitter", "medium"],
+    "content_focus": "thought leadership, product insights, scaling challenges"
+  },
+  
+  "creator_profile": {
+    "creator_id": "tech_founder_template",
+    "name": "Tech Startup Founder Template",
+    
+    "voice_characteristics": {
+      "tone": "professional_casual",
+      "complexity_level": "intermediate_to_advanced",
+      "vocabulary_style": "business_technical",
+      "sentence_structure": "varied_with_clarity",
+      "expertise_areas": [
+        "artificial intelligence",
+        "startup scaling",
+        "product management", 
+        "team building",
+        "fundraising",
+        "product-market fit",
+        "user experience",
+        "data-driven decisions"
+      ],
+      "brand_keywords": [
+        "innovation",
+        "growth",
+        "team",
+        "product",
+        "users",
+        "data",
+        "scale",
+        "market",
+        "customers",
+        "insights",
+        "building",
+        "startup",
+        "technology",
+        "solution"
+      ],
+      "communication_style": {
+        "directness": 0.8,
+        "formality": 0.6,
+        "technical_depth": 0.7,
+        "personal_anecdotes": 0.7,
+        "data_references": 0.8
+      }
+    },
+    
+    "authenticity_settings": {
+      "variance_tolerance": 0.75,
+      "voice_consistency_weight": 0.8,
+      "experimentation_comfort": 0.7,
+      "brand_flexibility": 0.6,
+      "personal_story_weight": 0.8,
+      "professional_credibility_weight": 0.9
+    },
+    
+    "performance_goals": {
+      "growth_priority": 0.8,
+      "engagement_focus": 0.8,
+      "viral_willingness": 0.6,
+      "conversion_focus": 0.5,
+      "thought_leadership_priority": 0.9,
+      "community_building": 0.7
+    },
+    
+    "platform_preferences": {
+      "linkedin": {
+        "posting_frequency": 0.6,
+        "content_length_preference": "medium_to_long",
+        "professional_tone_weight": 0.9,
+        "engagement_style": "thoughtful_discussions"
+      },
+      "twitter": {
+        "posting_frequency": 1.2,
+        "content_length_preference": "short_to_medium",
+        "thread_usage": 0.8,
+        "real_time_engagement": 0.7
+      },
+      "medium": {
+        "posting_frequency": 0.1,
+        "content_length_preference": "long_form",
+        "deep_insights": 0.9,
+        "evergreen_focus": 0.8
+      }
+    },
+    
+    "content_themes": {
+      "primary_themes": [
+        "scaling_challenges",
+        "product_development",
+        "team_leadership",
+        "fundraising_insights",
+        "market_analysis",
+        "user_feedback",
+        "data_insights",
+        "startup_lessons"
+      ],
+      "theme_rotation_frequency": "weekly",
+      "seasonal_adaptations": {
+        "q1": "planning_and_goal_setting",
+        "q2": "growth_and_scaling",
+        "q3": "optimization_and_efficiency", 
+        "q4": "reflection_and_planning"
+      }
+    },
+    
+    "viral_pattern_preferences": {
+      "question_hook": {
+        "usage_comfort": 0.8,
+        "effectiveness_for_creator": 0.85,
+        "fatigue_resistance": 0.7
+      },
+      "curiosity_gap": {
+        "usage_comfort": 0.7,
+        "effectiveness_for_creator": 0.8,
+        "fatigue_resistance": 0.6
+      },
+      "contrarian_take": {
+        "usage_comfort": 0.9,
+        "effectiveness_for_creator": 0.9,
+        "fatigue_resistance": 0.8
+      },
+      "transformation_story": {
+        "usage_comfort": 0.8,
+        "effectiveness_for_creator": 0.85,
+        "fatigue_resistance": 0.9
+      },
+      "data_insight": {
+        "usage_comfort": 0.9,
+        "effectiveness_for_creator": 0.9,
+        "fatigue_resistance": 0.8
+      }
+    },
+    
+    "quality_thresholds": {
+      "authenticity_floor": 0.75,
+      "clarity_minimum": 0.8,
+      "relevance_minimum": 0.75,
+      "value_density_minimum": 0.7,
+      "professional_credibility_minimum": 0.85
+    },
+    
+    "historical_post_examples": [
+      "Just shipped our new AI feature after 3 months of testing. The user feedback has been incredible - 40% increase in engagement. Building the right team makes all the difference.",
+      "Learned something important about product management today: data tells you what happened, but users tell you why. Always start with the conversation.",
+      "Growth isn't just about metrics. It's about building something people actually want to use every day. Focus on value first, viral comes second.",
+      "Controversial take: Most 'product-market fit' is actually 'founder-market fit.' You can't build what you don't understand deeply.",
+      "5 lessons from scaling our team from 5 to 50: 1) Hire for trajectory, not just current skills 2) Culture is what you do when no one's watching 3) Communication systems must evolve with team size 4) Document everything twice 5) Celebrate small wins religiously"
+    ]
+  },
+  
+  "usage_instructions": {
+    "setup_steps": [
+      "1. Copy this profile template",
+      "2. Update creator_id with your unique identifier",
+      "3. Customize brand_keywords to match your expertise",
+      "4. Adjust authenticity_settings based on your comfort level",
+      "5. Set platform_preferences for your primary channels",
+      "6. Add your historical_post_examples for voice baseline"
+    ],
+    "customization_tips": [
+      "Increase variance_tolerance if you want more creative freedom",
+      "Adjust viral_willingness based on your growth stage",
+      "Modify expertise_areas to match your specific domain",
+      "Update quality_thresholds based on your brand standards"
+    ],
+    "optimization_recommendations": [
+      "Monitor authenticity scores over time and adjust variance_tolerance",
+      "Track viral pattern effectiveness and update preferences quarterly",
+      "Review and update historical_post_examples monthly",
+      "Adjust platform_preferences based on engagement data"
+    ]
+  }
+} 

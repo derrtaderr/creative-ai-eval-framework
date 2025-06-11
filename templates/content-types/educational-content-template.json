@@ -1,0 +1,335 @@
+{
+  "content_metadata": {
+    "content_type": "Educational",
+    "template_version": "1.0",
+    "description": "Optimized evaluation framework for educational and instructional content across all platforms",
+    "target_goals": ["knowledge_transfer", "skill_building", "value_delivery", "authority_establishment"],
+    "content_categories": ["tutorials", "how_to_guides", "tips_and_tricks", "industry_insights", "explanatory_content"]
+  },
+  
+  "evaluation_framework": {
+    "educational_value": {
+      "learning_objective_clarity": {
+        "weight": 0.25,
+        "scoring_criteria": {
+          "excellent": "Clear, specific learning outcome stated upfront",
+          "good": "Learning outcome implied but understandable",
+          "acceptable": "General educational value present",
+          "poor": "Unclear what audience will learn"
+        },
+        "measurement_method": "objective_identification_analysis"
+      },
+      
+      "content_structure": {
+        "weight": 0.2,
+        "scoring_criteria": {
+          "excellent": "Logical progression, clear intro/body/conclusion",
+          "good": "Mostly organized with clear flow",
+          "acceptable": "Basic organization present",
+          "poor": "Disorganized or confusing structure"
+        },
+        "required_elements": [
+          "hook_or_introduction",
+          "main_teaching_points",
+          "examples_or_demonstrations",
+          "summary_or_action_steps"
+        ]
+      },
+      
+      "practical_applicability": {
+        "weight": 0.2,
+        "scoring_criteria": {
+          "excellent": "Immediately actionable with clear next steps",
+          "good": "Practical with some actionable elements",
+          "acceptable": "Generally useful information",
+          "poor": "Theoretical without practical value"
+        },
+        "actionability_markers": [
+          "step_by_step_instructions",
+          "specific_examples",
+          "clear_takeaways",
+          "implementation_guidance"
+        ]
+      },
+      
+      "accuracy_and_credibility": {
+        "weight": 0.2,
+        "scoring_criteria": {
+          "excellent": "Highly accurate with credible sources/experience",
+          "good": "Accurate with some supporting evidence",
+          "acceptable": "Generally accurate information",
+          "poor": "Questionable accuracy or unsupported claims"
+        },
+        "credibility_indicators": [
+          "expertise_demonstration",
+          "source_citations",
+          "real_world_examples",
+          "personal_experience_sharing"
+        ]
+      },
+      
+      "engagement_quality": {
+        "weight": 0.15,
+        "scoring_criteria": {
+          "excellent": "Highly engaging throughout with varied delivery",
+          "good": "Generally engaging with good pacing",
+          "acceptable": "Adequate engagement level",
+          "poor": "Dry or difficult to follow"
+        },
+        "engagement_elements": [
+          "storytelling_integration",
+          "interactive_questions",
+          "visual_aids",
+          "personality_injection"
+        ]
+      }
+    },
+    
+    "platform_optimization": {
+      "tiktok": {
+        "optimal_duration": [30, 90],
+        "key_elements": [
+          "immediate_value_promise",
+          "visual_demonstrations",
+          "quick_actionable_tips",
+          "trending_audio_integration"
+        ],
+        "performance_multipliers": {
+          "trending_participation": 0.3,
+          "visual_clarity": 0.4,
+          "quick_delivery": 0.3
+        }
+      },
+      
+      "youtube": {
+        "optimal_duration": [300, 1200],
+        "key_elements": [
+          "comprehensive_coverage",
+          "detailed_explanations",
+          "visual_aids_and_graphics",
+          "clear_chapter_breakdown"
+        ],
+        "performance_multipliers": {
+          "depth_of_content": 0.4,
+          "production_quality": 0.3,
+          "searchability": 0.3
+        }
+      },
+      
+      "linkedin": {
+        "optimal_length": [500, 1500],
+        "key_elements": [
+          "professional_insights",
+          "industry_relevance",
+          "thought_leadership",
+          "discussion_starters"
+        ],
+        "performance_multipliers": {
+          "professional_value": 0.4,
+          "industry_expertise": 0.3,
+          "engagement_invitation": 0.3
+        }
+      },
+      
+      "instagram": {
+        "optimal_formats": ["carousel", "reels", "igtv"],
+        "key_elements": [
+          "visual_appeal",
+          "bite_sized_learning",
+          "shareable_insights",
+          "aesthetic_consistency"
+        ],
+        "performance_multipliers": {
+          "visual_quality": 0.4,
+          "shareability": 0.3,
+          "brand_consistency": 0.3
+        }
+      }
+    },
+    
+    "audience_considerations": {
+      "skill_level_targeting": {
+        "beginner": {
+          "characteristics": ["basic_terminology", "step_by_step_guidance", "encouragement", "mistake_prevention"],
+          "pacing": "slow_and_thorough",
+          "complexity": "simple_concepts_first"
+        },
+        "intermediate": {
+          "characteristics": ["building_on_basics", "practical_applications", "efficiency_tips", "common_challenges"],
+          "pacing": "moderate_with_depth",
+          "complexity": "layered_complexity"
+        },
+        "advanced": {
+          "characteristics": ["nuanced_insights", "edge_cases", "optimization", "innovation"],
+          "pacing": "faster_delivery",
+          "complexity": "high_level_concepts"
+        }
+      },
+      
+      "learning_styles": {
+        "visual_learners": {
+          "requirements": ["diagrams", "infographics", "demonstrations", "color_coding"],
+          "optimization_weight": 0.3
+        },
+        "auditory_learners": {
+          "requirements": ["clear_narration", "verbal_explanations", "discussion_points", "audio_quality"],
+          "optimization_weight": 0.25
+        },
+        "kinesthetic_learners": {
+          "requirements": ["hands_on_examples", "interactive_elements", "practical_exercises", "real_world_application"],
+          "optimization_weight": 0.25
+        },
+        "reading_learners": {
+          "requirements": ["text_overlays", "written_summaries", "bullet_points", "reference_materials"],
+          "optimization_weight": 0.2
+        }
+      }
+    },
+    
+    "content_quality_metrics": {
+      "information_density": {
+        "calculation": "valuable_insights_per_minute",
+        "thresholds": {
+          "excellent": 2.0,
+          "good": 1.5,
+          "acceptable": 1.0,
+          "poor": 0.5
+        }
+      },
+      
+      "retention_optimization": {
+        "hook_strength": {
+          "first_10_seconds": "value_proposition_clarity",
+          "measurement": "viewer_retention_rate"
+        },
+        "pacing_variety": {
+          "elements": ["speed_changes", "visual_breaks", "interaction_points"],
+          "optimal_interval": 30
+        },
+        "conclusion_strength": {
+          "elements": ["summary", "action_steps", "next_learning_path"],
+          "call_to_action_clarity": 0.8
+        }
+      },
+      
+      "comprehension_indicators": {
+        "clarity_score": {
+          "vocabulary_appropriateness": 0.3,
+          "explanation_completeness": 0.4,
+          "example_relevance": 0.3
+        },
+        "knowledge_transfer": {
+          "before_after_progression": "clear_learning_arc",
+          "skill_demonstration": "practical_application",
+          "confidence_building": "encouragement_integration"
+        }
+      }
+    },
+    
+    "viral_potential_factors": {
+      "shareable_insights": {
+        "aha_moments": {
+          "weight": 0.3,
+          "characteristics": ["surprising_facts", "myth_busting", "counterintuitive_tips"]
+        },
+        "quotable_content": {
+          "weight": 0.2,
+          "characteristics": ["memorable_phrases", "actionable_quotes", "wisdom_nuggets"]
+        },
+        "transformation_promise": {
+          "weight": 0.3,
+          "characteristics": ["before_after_potential", "skill_improvement", "problem_solving"]
+        },
+        "social_proof": {
+          "weight": 0.2,
+          "characteristics": ["success_stories", "testimonials", "results_demonstration"]
+        }
+      },
+      
+      "trending_integration": {
+        "current_events_relevance": 0.2,
+        "platform_trends_adaptation": 0.3,
+        "seasonal_timing": 0.1,
+        "algorithm_optimization": 0.4
+      }
+    }
+  },
+  
+  "content_templates": {
+    "tutorial_format": {
+      "structure": [
+        "hook_with_outcome_promise",
+        "brief_overview_of_steps",
+        "step_by_step_demonstration",
+        "common_mistakes_to_avoid",
+        "summary_and_next_steps"
+      ],
+      "timing_guidelines": {
+        "hook": "0-10 seconds",
+        "overview": "10-20 seconds", 
+        "demonstration": "60-70% of content",
+        "mistakes": "10-15% of content",
+        "summary": "final 10-15 seconds"
+      }
+    },
+    
+    "insight_sharing_format": {
+      "structure": [
+        "controversial_or_surprising_statement",
+        "personal_experience_or_data",
+        "explanation_of_why_it_matters",
+        "practical_application",
+        "call_for_audience_experience"
+      ],
+      "engagement_triggers": [
+        "question_to_audience",
+        "relatable_scenario",
+        "industry_secret_reveal",
+        "myth_debunking"
+      ]
+    },
+    
+    "problem_solution_format": {
+      "structure": [
+        "relatable_problem_statement",
+        "why_traditional_solutions_fail",
+        "alternative_approach_introduction",
+        "step_by_step_solution",
+        "results_and_benefits"
+      ],
+      "pain_point_amplification": "first_30_seconds",
+      "solution_reveal": "middle_section",
+      "transformation_showcase": "final_section"
+    }
+  },
+  
+  "usage_instructions": {
+    "content_creation_workflow": [
+      "1. Define clear learning objective for your audience",
+      "2. Choose appropriate template based on content type",
+      "3. Adapt structure for target platform optimization",
+      "4. Include elements for different learning styles",
+      "5. Optimize for viral potential while maintaining educational value",
+      "6. Test content structure with sample audience if possible"
+    ],
+    
+    "evaluation_checklist": [
+      "□ Clear value proposition in first 10 seconds",
+      "□ Logical content structure with smooth flow",
+      "□ Practical, actionable takeaways included",
+      "□ Appropriate complexity for target audience",
+      "□ Visual/audio elements support learning",
+      "□ Strong conclusion with next steps",
+      "□ Platform-specific optimization applied"
+    ],
+    
+    "optimization_recommendations": [
+      "Monitor completion rates to identify drop-off points",
+      "A/B test different hook approaches for same content",
+      "Collect audience feedback on comprehension and value",
+      "Track which educational formats perform best for your niche",
+      "Adjust complexity based on audience engagement patterns",
+      "Update content regularly to maintain accuracy and relevance"
+    ]
+  }
+} 

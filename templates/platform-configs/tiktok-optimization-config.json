@@ -1,0 +1,267 @@
+{
+  "platform_metadata": {
+    "platform_name": "TikTok",
+    "config_version": "1.0",
+    "description": "Optimized configuration for TikTok's algorithm and audience preferences",
+    "last_updated": "2024-12-10",
+    "algorithm_focus": "engagement_velocity, completion_rate, viral_potential"
+  },
+  
+  "technical_specifications": {
+    "video_requirements": {
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "recommended": "1080x1920",
+        "minimum": "720x1280",
+        "maximum": "1080x1920"
+      },
+      "duration": {
+        "minimum_seconds": 15,
+        "maximum_seconds": 180,
+        "optimal_range": [15, 60],
+        "sweet_spot": 30
+      },
+      "frame_rate": {
+        "recommended": 30,
+        "acceptable": [24, 30, 60]
+      },
+      "file_size": {
+        "maximum_mb": 287,
+        "recommended_under_mb": 50
+      }
+    },
+    
+    "audio_requirements": {
+      "format": ["mp3", "aac", "wav"],
+      "sample_rate": 44100,
+      "bit_rate": 128,
+      "trending_music_boost": 0.3,
+      "original_audio_boost": 0.2,
+      "voice_clarity_minimum": 0.8
+    }
+  },
+  
+  "algorithm_optimization": {
+    "engagement_factors": {
+      "hook_within_seconds": 3,
+      "completion_rate_target": 0.8,
+      "like_rate_target": 0.05,
+      "share_rate_target": 0.02,
+      "comment_rate_target": 0.01,
+      "save_rate_target": 0.008
+    },
+    
+    "viral_signals": {
+      "trending_hashtags": {
+        "weight": 0.2,
+        "optimal_count": [3, 5],
+        "mix_strategy": "trending_plus_niche"
+      },
+      "trending_audio": {
+        "weight": 0.3,
+        "usage_window_hours": 72,
+        "original_twist_bonus": 0.1
+      },
+      "trending_effects": {
+        "weight": 0.15,
+        "early_adoption_bonus": 0.2
+      },
+      "duets_and_stitches": {
+        "weight": 0.1,
+        "viral_content_targeting": true
+      }
+    },
+    
+    "posting_optimization": {
+      "peak_hours": [9, 12, 17, 19, 21],
+      "timezone": "user_local_optimal",
+      "frequency": {
+        "optimal_posts_per_day": 1.5,
+        "maximum_without_penalty": 3,
+        "consistency_weight": 0.8
+      },
+      "content_variety": {
+        "format_rotation": ["talking_head", "tutorial", "trend_participation", "behind_scenes"],
+        "rotation_frequency": "weekly"
+      }
+    }
+  },
+  
+  "content_preferences": {
+    "hook_strategies": {
+      "visual_hook": {
+        "description": "Eye-catching visual in first 3 seconds",
+        "effectiveness": 0.85,
+        "examples": ["unexpected_transformation", "colorful_setup", "quick_movement"]
+      },
+      "audio_hook": {
+        "description": "Compelling audio that draws attention",
+        "effectiveness": 0.8,
+        "examples": ["trending_sound_remix", "unexpected_voice", "music_drop"]
+      },
+      "text_hook": {
+        "description": "Intriguing text overlay that creates curiosity",
+        "effectiveness": 0.75,
+        "examples": ["controversial_statement", "surprising_fact", "relatable_problem"]
+      },
+      "emotional_hook": {
+        "description": "Content that triggers immediate emotional response",
+        "effectiveness": 0.9,
+        "examples": ["wholesome_moment", "satisfying_process", "relatable_struggle"]
+      }
+    },
+    
+    "content_types": {
+      "educational": {
+        "performance_multiplier": 0.8,
+        "optimal_length": [30, 60],
+        "key_elements": ["clear_takeaway", "step_by_step", "practical_value"]
+      },
+      "entertainment": {
+        "performance_multiplier": 1.2,
+        "optimal_length": [15, 30],
+        "key_elements": ["humor", "relatability", "surprise_element"]
+      },
+      "trends": {
+        "performance_multiplier": 1.5,
+        "optimal_length": [15, 30],
+        "key_elements": ["trending_audio", "popular_format", "personal_twist"]
+      },
+      "behind_scenes": {
+        "performance_multiplier": 0.9,
+        "optimal_length": [30, 60],
+        "key_elements": ["authenticity", "process_reveal", "personality_show"]
+      }
+    },
+    
+    "visual_optimization": {
+      "composition": {
+        "face_in_frame": 0.8,
+        "vertical_orientation": 1.0,
+        "good_lighting": 0.9,
+        "minimal_text_overlay": 0.7
+      },
+      "pacing": {
+        "quick_cuts": 0.8,
+        "dynamic_movement": 0.7,
+        "scene_changes": [2, 4],
+        "retention_optimization": true
+      },
+      "effects_usage": {
+        "trending_effects": 0.6,
+        "subtle_enhancement": 0.8,
+        "avoid_overuse": true
+      }
+    }
+  },
+  
+  "audience_considerations": {
+    "primary_demographics": {
+      "age_range": [16, 34],
+      "peak_age": [18, 24],
+      "attention_span": "8_to_15_seconds",
+      "consumption_pattern": "rapid_scrolling"
+    },
+    
+    "engagement_patterns": {
+      "immediate_judgment": "within_3_seconds",
+      "completion_importance": "high",
+      "rewatchability": "medium_high",
+      "shareability_triggers": ["humor", "relatability", "surprise", "useful_info"]
+    },
+    
+    "content_preferences": {
+      "authenticity": 0.9,
+      "entertainment_value": 0.85,
+      "educational_value": 0.7,
+      "trending_participation": 0.8,
+      "personality_driven": 0.9
+    }
+  },
+  
+  "performance_metrics": {
+    "primary_kpis": {
+      "view_completion_rate": {
+        "excellent": 0.8,
+        "good": 0.6,
+        "acceptable": 0.4
+      },
+      "engagement_rate": {
+        "excellent": 0.08,
+        "good": 0.05,
+        "acceptable": 0.03
+      },
+      "share_rate": {
+        "excellent": 0.03,
+        "good": 0.02,
+        "acceptable": 0.01
+      }
+    },
+    
+    "secondary_metrics": {
+      "comment_sentiment": "positive_ratio",
+      "profile_visits": "conversion_tracking",
+      "follower_growth": "weekly_percentage",
+      "hashtag_performance": "reach_analysis"
+    }
+  },
+  
+  "optimization_strategies": {
+    "growth_phase": {
+      "new_creator": {
+        "focus": "consistency_and_niche_establishment",
+        "posting_frequency": 1.0,
+        "trend_participation": 0.7,
+        "original_content": 0.3
+      },
+      "established": {
+        "focus": "viral_optimization_and_community",
+        "posting_frequency": 1.5,
+        "trend_participation": 0.5,
+        "original_content": 0.5
+      },
+      "viral_ready": {
+        "focus": "strategic_viral_attempts",
+        "posting_frequency": 2.0,
+        "trend_participation": 0.3,
+        "original_content": 0.7
+      }
+    },
+    
+    "seasonal_adaptations": {
+      "trend_cycles": "7_to_14_days",
+      "evergreen_content": 0.3,
+      "seasonal_content": 0.2,
+      "trending_content": 0.5
+    }
+  },
+  
+  "usage_instructions": {
+    "implementation_steps": [
+      "1. Configure video specifications in your content creation tools",
+      "2. Set up posting schedule based on peak_hours and your timezone",
+      "3. Create content mix following content_types recommendations",
+      "4. Monitor trending_audio and hashtags daily",
+      "5. Track performance using primary_kpis",
+      "6. Adjust strategy based on growth_phase recommendations"
+    ],
+    
+    "best_practices": [
+      "Hook viewers within first 3 seconds with visual or audio element",
+      "Use trending audio but add your own creative twist",
+      "Keep text overlays minimal and easy to read",
+      "Post consistently at optimal times for your audience",
+      "Engage with comments quickly to boost algorithm signals",
+      "Participate in trends while maintaining your authentic voice"
+    ],
+    
+    "common_mistakes_to_avoid": [
+      "Using outdated trending audio (>72 hours old)",
+      "Overusing effects or transitions",
+      "Poor lighting or low-quality video",
+      "Weak or missing hooks in first 3 seconds",
+      "Inconsistent posting schedule",
+      "Ignoring comment engagement"
+    ]
+  }
+} 

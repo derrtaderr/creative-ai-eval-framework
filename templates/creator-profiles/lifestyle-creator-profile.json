@@ -1,0 +1,200 @@
+{
+  "profile_metadata": {
+    "template_name": "Lifestyle & Wellness Creator",
+    "template_version": "1.0",
+    "description": "Optimized for creators sharing content about wellness, productivity, mindfulness, and authentic lifestyle inspiration",
+    "target_audience": "wellness enthusiasts, productivity seekers, young professionals, lifestyle followers",
+    "primary_platforms": ["instagram", "tiktok", "youtube", "pinterest"],
+    "content_focus": "wellness inspiration, productivity tips, authentic lifestyle, personal growth"
+  },
+  
+  "creator_profile": {
+    "creator_id": "lifestyle_creator_template",
+    "name": "Lifestyle & Wellness Creator Template",
+    
+    "voice_characteristics": {
+      "tone": "warm_inspirational",
+      "complexity_level": "accessible_friendly",
+      "vocabulary_style": "conversational_uplifting",
+      "sentence_structure": "simple_and_clear",
+      "expertise_areas": [
+        "wellness practices",
+        "mindfulness",
+        "productivity hacks",
+        "morning routines",
+        "self-care",
+        "healthy habits",
+        "work-life balance",
+        "personal growth",
+        "mental health awareness",
+        "sustainable living"
+      ],
+      "brand_keywords": [
+        "wellness",
+        "mindful",
+        "growth",
+        "journey",
+        "authentic",
+        "balance",
+        "self-care",
+        "intentional",
+        "peaceful",
+        "thriving",
+        "nourish",
+        "inspire",
+        "transform",
+        "habits",
+        "routine",
+        "healthy"
+      ],
+      "communication_style": {
+        "warmth": 0.9,
+        "vulnerability": 0.8,
+        "encouragement": 0.95,
+        "personal_sharing": 0.9,
+        "practical_advice": 0.8
+      }
+    },
+    
+    "authenticity_settings": {
+      "variance_tolerance": 0.6,
+      "voice_consistency_weight": 0.9,
+      "experimentation_comfort": 0.5,
+      "brand_flexibility": 0.4,
+      "personal_story_weight": 0.95,
+      "vulnerability_comfort": 0.8
+    },
+    
+    "performance_goals": {
+      "growth_priority": 0.7,
+      "engagement_focus": 0.9,
+      "viral_willingness": 0.8,
+      "conversion_focus": 0.3,
+      "community_building": 0.95,
+      "inspiration_impact": 0.9
+    },
+    
+    "platform_preferences": {
+      "instagram": {
+        "posting_frequency": 1.0,
+        "content_types": ["reels", "stories", "carousel_posts"],
+        "aesthetic_consistency": 0.9,
+        "personal_branding": 0.85
+      },
+      "tiktok": {
+        "posting_frequency": 1.5,
+        "content_types": ["wellness_tips", "morning_routines", "day_in_life"],
+        "trending_participation": 0.7,
+        "authentic_moments": 0.9
+      },
+      "youtube": {
+        "posting_frequency": 0.3,
+        "content_types": ["vlogs", "tutorials", "wellness_guides"],
+        "depth_of_content": 0.8,
+        "storytelling_focus": 0.9
+      },
+      "pinterest": {
+        "posting_frequency": 0.5,
+        "content_types": ["wellness_quotes", "routine_graphics", "inspiration_boards"],
+        "visual_appeal": 0.95,
+        "evergreen_value": 0.8
+      }
+    },
+    
+    "content_themes": {
+      "primary_themes": [
+        "morning_routines",
+        "mindfulness_practices",
+        "productivity_systems",
+        "self_care_rituals",
+        "healthy_recipes",
+        "workout_motivation",
+        "mental_health_awareness",
+        "seasonal_wellness",
+        "goal_setting",
+        "habit_formation"
+      ],
+      "theme_rotation_frequency": "bi-weekly",
+      "seasonal_adaptations": {
+        "spring": "renewal_and_fresh_starts",
+        "summer": "outdoor_wellness_and_energy",
+        "fall": "cozy_routines_and_preparation",
+        "winter": "reflection_and_inner_work"
+      }
+    },
+    
+    "viral_pattern_preferences": {
+      "question_hook": {
+        "usage_comfort": 0.9,
+        "effectiveness_for_creator": 0.85,
+        "fatigue_resistance": 0.8
+      },
+      "transformation_story": {
+        "usage_comfort": 0.95,
+        "effectiveness_for_creator": 0.9,
+        "fatigue_resistance": 0.9
+      },
+      "routine_reveal": {
+        "usage_comfort": 0.9,
+        "effectiveness_for_creator": 0.88,
+        "fatigue_resistance": 0.7
+      },
+      "vulnerability_share": {
+        "usage_comfort": 0.8,
+        "effectiveness_for_creator": 0.9,
+        "fatigue_resistance": 0.85
+      },
+      "tip_compilation": {
+        "usage_comfort": 0.85,
+        "effectiveness_for_creator": 0.8,
+        "fatigue_resistance": 0.75
+      }
+    },
+    
+    "quality_thresholds": {
+      "authenticity_floor": 0.8,
+      "clarity_minimum": 0.75,
+      "relevance_minimum": 0.8,
+      "inspiration_value_minimum": 0.8,
+      "community_connection_minimum": 0.75
+    },
+    
+    "visual_brand_preferences": {
+      "color_palette": ["soft_pastels", "earth_tones", "warm_neutrals"],
+      "aesthetic_style": "clean_minimal_cozy",
+      "photography_style": "natural_light_authentic",
+      "graphic_style": "simple_elegant_readable"
+    },
+    
+    "historical_post_examples": [
+      "Morning mindfulness practice changed my entire relationship with productivity. It's not about doing more, it's about being present with what matters.",
+      "Sharing my wellness journey isn't about perfection - it's about progress. Every small step counts toward the life you want to create.",
+      "Authentic growth happens when you stop comparing your behind-the-scenes to everyone else's highlight reel. Focus on your own path.",
+      "Today's reminder: You don't need a complete life overhaul to feel better. Start with one small habit that nourishes your soul.",
+      "The best morning routine is the one you actually do consistently. Simple beats perfect every single time. What's one thing you do every morning that sets a positive tone?"
+    ]
+  },
+  
+  "usage_instructions": {
+    "setup_steps": [
+      "1. Copy this profile template",
+      "2. Update creator_id with your unique identifier", 
+      "3. Customize expertise_areas to your wellness niche",
+      "4. Adjust visual_brand_preferences to your aesthetic",
+      "5. Set platform_preferences for your primary channels",
+      "6. Add your historical_post_examples for authenticity baseline"
+    ],
+    "customization_tips": [
+      "Higher vulnerability_comfort creates deeper audience connection",
+      "Adjust viral_willingness based on authentic vs growth balance",
+      "Modify seasonal_adaptations to match your content calendar",
+      "Update color_palette to match your personal brand"
+    ],
+    "optimization_recommendations": [
+      "Track engagement on vulnerability vs inspiration content",
+      "Monitor seasonal content performance and adjust themes",
+      "Review visual brand consistency monthly",
+      "Adjust authenticity thresholds based on audience feedback"
+    ]
+  }
+} 
