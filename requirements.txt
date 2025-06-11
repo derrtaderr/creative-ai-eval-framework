@@ -1,0 +1,51 @@
+# Core Dependencies
+torch>=1.9.0
+transformers>=4.20.0
+sentence-transformers>=2.2.0
+pandas>=1.4.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+scipy>=1.8.0
+
+# Visualization and UI
+plotly>=5.8.0
+matplotlib>=3.5.0
+streamlit>=1.10.0
+seaborn>=0.11.0
+
+# Jupyter and Interactive Development
+jupyter>=1.0.0
+ipywidgets>=7.7.0
+notebook>=6.4.0
+
+# Task Scheduling and Background Processing
+celery>=5.2.0
+redis>=4.3.0
+
+# Web and API
+requests>=2.28.0
+flask>=2.2.0
+fastapi>=0.85.0
+uvicorn>=0.18.0
+
+# Data Processing
+PyYAML>=6.0
+openpyxl>=3.0.0
+python-dotenv>=0.20.0
+
+# Computer Vision and Audio
+opencv-python>=4.6.0
+Pillow>=9.2.0
+librosa>=0.9.0
+
+# Testing and Development
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.971
+
+# Optional Cloud Dependencies
+boto3>=1.24.0
+google-cloud-storage>=2.5.0
+azure-storage-blob>=12.13.0 

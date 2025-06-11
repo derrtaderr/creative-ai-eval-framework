@@ -1,0 +1,77 @@
+{
+  "creator_id": "creator_001",
+  "name": "Tech Startup Founder",
+  "platforms": ["linkedin", "twitter"],
+  "voice_characteristics": {
+    "tone": "professional_casual",
+    "expertise_areas": ["AI", "startups", "product management"],
+    "authenticity_tolerance": 0.75,
+    "brand_keywords": ["innovation", "growth", "team", "product"]
+  },
+  "historical_content": [
+    {
+      "post_id": "post_001",
+      "text": "Just shipped our new AI feature that helps creators optimize their content in real-time! The team worked incredibly hard to make this happen. Excited to see how it impacts our users' growth. #AI #startup #product",
+      "platform": "linkedin",
+      "engagement": {"likes": 47, "comments": 12, "shares": 8},
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "post_id": "post_002", 
+      "text": "Building in public has been one of the best decisions for our startup. The feedback from our community has shaped our product roadmap in ways we never expected. What's your experience with transparent building? #buildinpublic #startup",
+      "platform": "twitter",
+      "engagement": {"likes": 23, "retweets": 5, "replies": 8},
+      "timestamp": "2024-01-12T14:22:00Z"
+    },
+    {
+      "post_id": "post_003",
+      "text": "The future of AI isn't about replacing human creativity - it's about amplifying it. Our latest research shows that AI-assisted creators produce 3x more engaging content while maintaining their authentic voice. Exciting times ahead! 🚀",
+      "platform": "linkedin", 
+      "engagement": {"likes": 89, "comments": 24, "shares": 15},
+      "timestamp": "2024-01-10T09:15:00Z"
+    },
+    {
+      "post_id": "post_004",
+      "text": "Hot take: The best product managers are the ones who spend 80% of their time listening and 20% talking. Your customers will tell you exactly what to build if you know how to listen. #productmanagement #startup",
+      "platform": "twitter",
+      "engagement": {"likes": 156, "retweets": 34, "replies": 19},
+      "timestamp": "2024-01-08T16:45:00Z"
+    },
+    {
+      "post_id": "post_005", 
+      "text": "We made a tough decision to pivot our product strategy after 6 months of development. It wasn't easy, but the market feedback was clear. Sometimes the best growth comes from knowing when to change direction. Lessons learned from our journey so far.",
+      "platform": "linkedin",
+      "engagement": {"likes": 62, "comments": 18, "shares": 11},
+      "timestamp": "2024-01-05T11:30:00Z"
+    },
+    {
+      "post_id": "post_006",
+      "text": "Your team's success is directly proportional to how psychologically safe they feel to share ideas, make mistakes, and learn together. Creating that environment is leadership 101. #leadership #team",
+      "platform": "twitter", 
+      "engagement": {"likes": 78, "retweets": 12, "replies": 6},
+      "timestamp": "2024-01-03T13:20:00Z"
+    },
+    {
+      "post_id": "post_007",
+      "text": "Innovation happens at the intersection of technology and human needs. We're not just building features - we're solving real problems for real people. That's what gets me excited to work every day. What drives your innovation? #innovation #purpose",
+      "platform": "linkedin",
+      "engagement": {"likes": 41, "comments": 9, "shares": 7},
+      "timestamp": "2024-01-01T08:00:00Z"
+    }
+  ],
+  "engagement_patterns": {
+    "peak_hours": [9, 17, 20],
+    "best_content_types": ["insights", "behind_the_scenes", "lessons_learned"],
+    "audience_segments": ["founders", "product_managers", "ai_enthusiasts", "startup_community"],
+    "avg_engagement_rate": 0.034,
+    "best_performing_hashtags": ["#AI", "#startup", "#product", "#buildinpublic", "#leadership"]
+  },
+  "brand_voice_analysis": {
+    "primary_tone": "authentic_professional",
+    "key_phrases": ["excited to", "lessons learned", "real people", "tough decision"],
+    "writing_style": "conversational_with_insights",
+    "emoji_usage": "minimal_strategic",
+    "question_frequency": 0.28,
+    "personal_story_share": 0.43
+  }
+} 
