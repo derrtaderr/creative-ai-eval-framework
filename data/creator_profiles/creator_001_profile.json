@@ -1,12 +1,13 @@
 {
   "creator_id": "creator_001",
   "name": "Tech Startup Founder",
-  "platforms": ["linkedin", "twitter"],
+  "platform_primary": "linkedin",
+  "niche": "entrepreneurship",
   "voice_characteristics": {
-    "tone": "professional_casual",
-    "expertise_areas": ["AI", "startups", "product management"],
-    "authenticity_tolerance": 0.75,
-    "brand_keywords": ["innovation", "growth", "team", "product"]
+    "tone": "inspirational yet practical",
+    "key_phrases": ["building in public", "founder journey", "startup life", "lessons learned"],
+    "typical_topics": ["entrepreneurship", "product development", "team building", "fundraising"],
+    "writing_style": "story-driven with actionable insights"
   },
   "historical_content": [
     {
@@ -60,11 +61,10 @@
     }
   ],
   "engagement_patterns": {
-    "peak_hours": [9, 17, 20],
-    "best_content_types": ["insights", "behind_the_scenes", "lessons_learned"],
-    "audience_segments": ["founders", "product_managers", "ai_enthusiasts", "startup_community"],
-    "avg_engagement_rate": 0.034,
-    "best_performing_hashtags": ["#AI", "#startup", "#product", "#buildinpublic", "#leadership"]
+    "optimal_posting_times": [8, 12, 17, 20],
+    "best_performing_formats": ["personal stories", "lessons learned", "behind-the-scenes"],
+    "average_engagement_rate": 0.045,
+    "peak_engagement_multiplier": 2.3
   },
   "brand_voice_analysis": {
     "primary_tone": "authentic_professional",
@@ -73,5 +73,108 @@
     "emoji_usage": "minimal_strategic",
     "question_frequency": 0.28,
     "personal_story_share": 0.43
-  }
+  },
+  "authenticity_settings": {
+    "variance_tolerance": 0.7,
+    "growth_focus": 0.6,
+    "voice_consistency": 0.82,
+    "experimentation_comfort": 0.65,
+    "brand_flexibility": 0.4
+  },
+  "performance_goals": {
+    "target_engagement_rate": 0.06,
+    "growth_priority": "balanced",
+    "authenticity_importance": 0.7,
+    "viral_willingness": 0.5
+  },
+  "historical_posts": [
+    {
+      "content": "Building in public has been the scariest and most rewarding decision of my founder journey. Here's what I learned after 6 months of sharing everything - the good, bad, and embarrassing failures that made us stronger.",
+      "engagement_rate": 0.087,
+      "platform": "linkedin",
+      "date": "2024-05-15",
+      "performance_metrics": {
+        "likes": 234,
+        "comments": 45,
+        "shares": 18
+      }
+    },
+    {
+      "content": "Yesterday, I had to let go of our first engineering hire. It was devastating, but here's the lesson: hiring for skills vs culture fit will always backfire. The technical interview went great, but we missed the red flags about collaboration.",
+      "engagement_rate": 0.092,
+      "platform": "linkedin", 
+      "date": "2024-05-10",
+      "performance_metrics": {
+        "likes": 312,
+        "comments": 67,
+        "shares": 23
+      }
+    },
+    {
+      "content": "Startup life: Celebrating our first $10K MRR while eating ramen because we reinvested everything back into the product. The founder journey is wild - anyone else living this paradox? What's your biggest startup contradiction?",
+      "engagement_rate": 0.076,
+      "platform": "linkedin",
+      "date": "2024-05-05",
+      "performance_metrics": {
+        "likes": 189,
+        "comments": 34,
+        "shares": 12
+      }
+    },
+    {
+      "content": "Product development taught me that perfection is the enemy of progress. We spent 3 months building the 'perfect' feature that nobody wanted. Lesson learned: ship fast, iterate faster, and always talk to customers first.",
+      "engagement_rate": 0.065,
+      "platform": "linkedin",
+      "date": "2024-04-28",
+      "performance_metrics": {
+        "likes": 167,
+        "comments": 28,
+        "shares": 9
+      }
+    },
+    {
+      "content": "Team building as a startup: We hired our first remote developer from across the world. Culture fit matters more than timezone. Great people make time zones irrelevant. What's your experience with remote-first teams?",
+      "engagement_rate": 0.058,
+      "platform": "linkedin",
+      "date": "2024-04-20",
+      "performance_metrics": {
+        "likes": 143,
+        "comments": 22,
+        "shares": 6
+      }
+    },
+    {
+      "content": "Fundraising reality check: Got rejected by 47 investors before landing our seed round. Each 'no' taught us something. Persistence isn't just knocking on doors - it's listening, learning, and improving your story every time.",
+      "engagement_rate": 0.094,
+      "platform": "linkedin",
+      "date": "2024-04-15",
+      "performance_metrics": {
+        "likes": 298,
+        "comments": 56,
+        "shares": 21
+      }
+    },
+    {
+      "content": "Behind the scenes: Our MVP looked like a website from 2005, but it solved a real problem. Sometimes ugly solutions are beautiful if they work. Focus on the problem, not the polish. What's the ugliest MVP that became successful?",
+      "engagement_rate": 0.071,
+      "platform": "linkedin",
+      "date": "2024-04-08",
+      "performance_metrics": {
+        "likes": 178,
+        "comments": 31,
+        "shares": 14
+      }
+    },
+    {
+      "content": "Lessons learned from startup failure #1: We built a solution for a problem we assumed existed. Spent 8 months in stealth mode, then discovered our target market was 10x smaller than projected. Always validate before you build.",
+      "engagement_rate": 0.083,
+      "platform": "linkedin",
+      "date": "2024-04-01",
+      "performance_metrics": {
+        "likes": 221,
+        "comments": 43,
+        "shares": 17
+      }
+    }
+  ]
 } 
