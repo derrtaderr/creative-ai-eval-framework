@@ -1,0 +1,679 @@
+{
+  "temporal_score": 0.268,
+  "immediate_metrics": {
+    "immediate_score": 0.441,
+    "timing_optimization": 1.0,
+    "content_urgency": 0.0,
+    "hook_strength": 0.5,
+    "platform_alignment": 0.079,
+    "predicted_1h_engagement": 0.353,
+    "viral_window_probability": 0.132
+  },
+  "delayed_metrics": {
+    "delayed_score": 0.139,
+    "content_depth": 0.395,
+    "shareability": 0.3,
+    "evergreen_potential": 0.65,
+    "discussion_driver": 0.2,
+    "predicted_24h_engagement": 0.238,
+    "predicted_72h_engagement": 0.158,
+    "predicted_168h_engagement": 0.079
+  },
+  "lifecycle_prediction": {
+    "trajectory_points": [
+      {
+        "time": 0,
+        "engagement": 0.44086666666666663
+      },
+      {
+        "time": 1,
+        "engagement": 0.3526933333333333
+      },
+      {
+        "time": 6,
+        "engagement": 0.3166836120511122
+      },
+      {
+        "time": 24,
+        "engagement": 0.23763600000000004
+      },
+      {
+        "time": 72,
+        "engagement": 0.15842400000000004
+      },
+      {
+        "time": 168,
+        "engagement": 0.07921200000000002
+      }
+    ],
+    "peak_engagement_time": 0,
+    "total_lifetime_value": 1.5855156120511122,
+    "engagement_persistence": 0.17967337063360053,
+    "content_type": "flash_viral",
+    "viral_probability": 0.20279866666666665,
+    "optimization_opportunities": []
+  },
+  "recommendations": [
+    {
+      "type": "content_depth",
+      "priority": "medium",
+      "message": "Content depth (0.40) could be enhanced for sustained engagement",
+      "suggestions": [
+        "Add more substantial insights or analysis",
+        "Include specific examples or case studies",
+        "Provide actionable steps or frameworks"
+      ]
+    }
+  ],
+  "evaluation_metadata": {
+    "level": 2,
+    "evaluator": "temporal",
+    "evaluation_time": 0.024080276489257812,
+    "platform": "linkedin",
+    "time_windows": [
+      0,
+      1,
+      6,
+      24,
+      72,
+      168
+    ],
+    "enhanced_level": "2+",
+    "lifecycle_analysis": true,
+    "growth_forecasting": true
+  },
+  "viral_lifecycle_analysis": {
+    "sustainability_score": 1.0,
+    "optimal_usage_weeks": 4,
+    "audience_fatigue_risk": 0.0,
+    "refresh_date": "2025-07-15",
+    "refresh_indicators": [
+      {
+        "indicator": "declining_engagement",
+        "severity": "medium",
+        "trend": -0.182
+      }
+    ],
+    "pattern_type": "question_hooks",
+    "current_usage_rate": 0.0,
+    "recommendations": [
+      {
+        "type": "optimization",
+        "priority": "low",
+        "message": "High sustainability - optimize usage frequency",
+        "action": "Increase usage frequency by 25%"
+      }
+    ]
+  },
+  "growth_trajectory_forecast": {
+    "forecast_period": "6_months",
+    "total_follower_growth": 1311489,
+    "percentage_growth": 8743.3,
+    "average_monthly_growth_rate": 111.07,
+    "peak_growth_month": 5,
+    "engagement_lift_percentage": 16.6,
+    "confidence_score": 1.02,
+    "monthly_projections": [
+      {
+        "month": 1,
+        "projected_followers": 28866,
+        "growth_rate": 0.9244,
+        "projected_engagement_rate": 0.0441,
+        "cumulative_growth": 13866
+      },
+      {
+        "month": 2,
+        "projected_followers": 57898,
+        "growth_rate": 1.0058,
+        "projected_engagement_rate": 0.0432,
+        "cumulative_growth": 42898
+      },
+      {
+        "month": 3,
+        "projected_followers": 120843,
+        "growth_rate": 1.0872,
+        "projected_engagement_rate": 0.0424,
+        "cumulative_growth": 105843
+      },
+      {
+        "month": 4,
+        "projected_followers": 262055,
+        "growth_rate": 1.1686,
+        "projected_engagement_rate": 0.0415,
+        "cumulative_growth": 247055
+      },
+      {
+        "month": 5,
+        "projected_followers": 589613,
+        "growth_rate": 1.25,
+        "projected_engagement_rate": 0.0407,
+        "cumulative_growth": 574613
+      },
+      {
+        "month": 6,
+        "projected_followers": 1326489,
+        "growth_rate": 1.2498,
+        "projected_engagement_rate": 0.0399,
+        "cumulative_growth": 1311489
+      }
+    ],
+    "final_metrics": {
+      "projected_followers": 1326489,
+      "projected_engagement_rate": 0.0399
+    },
+    "growth_drivers": [
+      "consistent_posting",
+      "high_quality_templates",
+      "high_frequency_viral_content"
+    ],
+    "risk_factors": [
+      "algorithm_changes",
+      "market_saturation"
+    ]
+  },
+  "enhanced_recommendations": [
+    {
+      "type": "content_depth",
+      "priority": "medium",
+      "message": "Content depth (0.40) could be enhanced for sustained engagement",
+      "suggestions": [
+        "Add more substantial insights or analysis",
+        "Include specific examples or case studies",
+        "Provide actionable steps or frameworks"
+      ]
+    },
+    {
+      "type": "growth_optimization",
+      "priority": "medium",
+      "message": "High-confidence growth forecast (102.0%) - optimize for scale",
+      "suggestions": [
+        "Expect 1,311,489 followers over 6 months",
+        "Peak growth predicted in month 5",
+        "Prepare content pipeline for increased demand"
+      ]
+    }
+  ],
+  "content_calendar": {
+    "calendar_period": "6_weeks",
+    "platform": "linkedin",
+    "weekly_schedule": [
+      {
+        "week": 1,
+        "week_start": "2025-06-10",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-06-10",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-11",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-12",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-13",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-14",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-15",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-16",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "foundation_building"
+      },
+      {
+        "week": 2,
+        "week_start": "2025-06-17",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-06-17",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-18",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-19",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-20",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-21",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-22",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-23",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "foundation_building"
+      },
+      {
+        "week": 3,
+        "week_start": "2025-06-24",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-06-24",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-25",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-26",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-27",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-06-28",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-06-29",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-06-30",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "foundation_building"
+      },
+      {
+        "week": 4,
+        "week_start": "2025-07-01",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-07-01",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-02",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-03",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-04",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-05",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-06",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-07",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "growth_acceleration"
+      },
+      {
+        "week": 5,
+        "week_start": "2025-07-08",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-07-08",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-09",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-10",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-11",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-12",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-13",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-14",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "growth_acceleration"
+      },
+      {
+        "week": 6,
+        "week_start": "2025-07-15",
+        "optimal_frequency": 4,
+        "daily_schedule": [
+          {
+            "date": "2025-07-15",
+            "day": "Tuesday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-16",
+            "day": "Wednesday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-17",
+            "day": "Thursday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-18",
+            "day": "Friday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "viral_template",
+            "template_usage": "recommended"
+          },
+          {
+            "date": "2025-07-19",
+            "day": "Saturday",
+            "post_scheduled": true,
+            "optimal_time": "09:00",
+            "recommended_content_type": "engagement_content",
+            "template_usage": "optional"
+          },
+          {
+            "date": "2025-07-20",
+            "day": "Sunday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          },
+          {
+            "date": "2025-07-21",
+            "day": "Monday",
+            "post_scheduled": false,
+            "engagement_focus": true,
+            "recommended_activities": [
+              "respond_to_comments",
+              "engage_with_community"
+            ]
+          }
+        ],
+        "focus_strategy": "growth_acceleration"
+      }
+    ],
+    "template_rotation_strategy": {
+      "rotation_frequency": "weekly",
+      "templates_per_rotation": 3,
+      "total_template_variations_needed": 9,
+      "priority_patterns": [
+        "question_hooks",
+        "social_proof",
+        "list_formats"
+      ],
+      "refresh_schedule": []
+    },
+    "strategic_timing": {
+      "peak_growth_period": "Month 5",
+      "pre_peak_preparation": "Weeks 16 to 20",
+      "content_pipeline_requirements": "13114 pieces per week during peak",
+      "key_milestones": [
+        {
+          "week": 2,
+          "milestone": "Establish baseline metrics"
+        },
+        {
+          "week": 18,
+          "milestone": "Prepare for peak growth period"
+        },
+        {
+          "week": 20,
+          "milestone": "Execute peak growth strategy"
+        },
+        {
+          "week": 24,
+          "milestone": "Optimize post-peak retention"
+        }
+      ]
+    },
+    "optimization_insights": [
+      {
+        "type": "posting_frequency",
+        "insight": "Optimized for 24 posts over 6 weeks",
+        "recommendation": "Average 4.0 posts per week for linkedin"
+      },
+      {
+        "type": "growth_optimization",
+        "insight": "Calendar aligned with predicted peak growth in month 5",
+        "recommendation": "Increase content quality and frequency during peak periods"
+      }
+    ],
+    "performance_predictions": {
+      "expected_follower_growth": 1311489,
+      "expected_engagement_lift": "16.6%",
+      "confidence_level": "102%",
+      "key_performance_weeks": [
+        2,
+        4,
+        6,
+        8
+      ]
+    }
+  }
+}
