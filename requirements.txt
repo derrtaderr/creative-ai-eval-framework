@@ -6,6 +6,50 @@ pandas>=1.4.0
 numpy>=1.21.0
 scikit-learn>=1.1.0
 
+# Advanced ML Models
+# Text Analysis and NLP
+openai>=0.28.0
+anthropic>=0.3.0
+huggingface_hub>=0.15.0
+tokenizers>=0.13.0
+datasets>=2.8.0
+
+# Computer Vision
+ultralytics>=8.0.0  # YOLOv8
+opencv-python>=4.6.0
+torchvision>=0.10.0
+timm>=0.6.0  # PyTorch Image Models
+mediapipe>=0.9.0  # Face detection and pose estimation
+
+# Audio Processing
+librosa>=0.9.0
+speechrecognition>=3.9.0
+pyaudio>=0.2.11
+pydub>=0.25.0
+soundfile>=0.10.0
+speechbrain>=0.5.0  # Advanced speech processing
+
+# Advanced Text Models
+spacy>=3.4.0
+nltk>=3.7
+textblob>=0.17.0
+vaderSentiment>=3.3.0
+flair>=0.11.0  # State-of-the-art NLP
+
+# Performance and Engagement Prediction
+xgboost>=1.6.0
+lightgbm>=3.3.0
+catboost>=1.1.0
+
+# Time Series Analysis (for temporal evaluation)
+statsmodels>=0.13.0
+prophet>=1.1.0
+neuralprophet>=0.5.0
+
+# Clustering and Similarity
+faiss-cpu>=1.7.0
+annoy>=1.17.0
+
 # Data visualization and analysis
 plotly>=5.8.0
 matplotlib>=3.5.0
@@ -28,8 +72,6 @@ python-dotenv>=0.19.0
 pyyaml>=6.0
 
 # Text processing and NLP utilities
-nltk>=3.7
-spacy>=3.4.0
 regex>=2022.0.0
 
 # Visualization and UI
@@ -51,11 +93,6 @@ uvicorn>=0.18.0
 # Data Processing
 openpyxl>=3.0.0
 
-# Computer Vision and Audio
-opencv-python>=4.6.0
-Pillow>=9.2.0
-librosa>=0.9.0
-
 # Testing and Development
 black>=22.0.0
 flake8>=5.0.0
@@ -64,4 +101,10 @@ mypy>=0.971
 # Optional Cloud Dependencies
 boto3>=1.24.0
 google-cloud-storage>=2.5.0
-azure-storage-blob>=12.13.0 
+azure-storage-blob>=12.13.0
+
+# Image processing
+Pillow>=9.2.0
+
+# Memory and performance optimization
+psutil>=5.9.0 
